@@ -1,0 +1,18 @@
+#output{
+    display: flex;
+    justify-content: space-evenly;
+}
+.inputs{
+    display: flex;
+    flex-direction: column;
+}
+
+.files{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+input{
+    padding-left: 10px;
+}
